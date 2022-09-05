@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <opm-metadata xmlns="http://oscript.io/schemas/opm-metadata/1.0">
     <name>VirtualMachineManager</name>
-    <version>2.5.2</version>
-    <engine-version>2.5.2</engine-version>
+    <version>2.5.3</version>
+    <engine-version>2.5.3</engine-version>
     <depends-on name="logos" />
     <depends-on name="1commands" />
 </opm-metadata>
