@@ -1,5 +1,6 @@
 # VirtualMachineManager
 
+
 ```
 #Использовать VirtualMachineManager
 #Использовать logos
